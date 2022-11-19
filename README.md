@@ -20,7 +20,7 @@ Program yang dibuat untuk menmpilkan suatu model objek menjadi ASCII
 WINDOWS | LINUX | MAC OS
 
 ------------------------------------------------------------
-# Lisensi
-Copyright of Fasuyaaa, 2022  
+# Source:
+- 
 
 -------------------------------------------------------------
